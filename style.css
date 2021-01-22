@@ -1,0 +1,14 @@
+img{
+    background-color:#ccc;
+    border: 5px solid yellow;
+    border-radius: 20px;
+    margin: 50px;
+    padding: 20px;
+
+    
+    
+}
+
+img:hover{
+    box-shadow: 8px 8px 8px 2px #ccc;
+}
